@@ -5,5 +5,4 @@ The case studies include group and individual projects:
 - Bookbinders
 - Dow Jones stock
 - Customer Retention
-- Cancer Detection
 - Tanzania Tourisim (individual)
